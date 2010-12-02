@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Contest Business Objects
+Bundle-SymbolicName: com.gkni.contest.model
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: GKNI
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: com.gkni.contest.exceptions,
+ com.gkni.contest.model,
+ com.gkni.contest.services
